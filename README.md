@@ -14,6 +14,8 @@ Drawing: [FinalExamController Drawing v2.pdf](https://github.com/user-attachment
 
 Fusion File: https://drive.google.com/file/d/1cUq-ejZ6ZVe5NuwBheqsnQZ_psIrbIQo/view?usp=sharing
 
+circuit: https://wokwi.com/projects/416462797340236801
+
 GrabCAD Models Used: https://grabcad.com/library/buzzer_smd_9045-1
 https://grabcad.com/library/5mm-led-7
 https://grabcad.com/library/push_button_6x6x5mm-1
